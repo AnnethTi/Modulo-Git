@@ -1,0 +1,4 @@
+#El signo del gato ayuda a poner comentarios en VIM
+#Este es un archivo para que GIt ignore todos los archivos txt
+# *el asterisco significa que archivos queremos ignorar:
+*.txt
